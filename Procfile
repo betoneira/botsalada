@@ -1,1 +1,1 @@
-PRESENTE: python "your_python_code.py"
+web: python "your_python_code.py"
