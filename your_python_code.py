@@ -10,8 +10,8 @@ import subprocess
 # Telegram API credentials
 API_ID = '14717600'
 API_HASH = '1c4099bac5e396aecaacf6f98f2bd155'
-TOKEN = '6346124497:AAEmaUdOqUabXOvl6itnRT0nLDX7fqwa9VE'
-CHANNEL_ID = -1001934146708
+TOKEN = '5738819751:AAHSTNm_Su6iv4LEM2hqv24ItcRNZ881Li8'
+CHANNEL_ID = -1001851397474
 chat_id3 = -804108523
 
 # Create the Telegram client
