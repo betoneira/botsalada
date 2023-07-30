@@ -10,7 +10,7 @@ import subprocess
 # Telegram API credentials
 API_ID = '14717600'
 API_HASH = '1c4099bac5e396aecaacf6f98f2bd155'
-TOKEN = '5738819751:AAHSTNm_Su6iv4LEM2hqv24ItcRNZ881Li8'
+TOKEN = '5798774840:AAF2DkQfW7maHT1db-nkCqI7jkaVTDrah6Q'
 CHANNEL_ID = -1001851397474
 chat_id3 = -804108523
 
