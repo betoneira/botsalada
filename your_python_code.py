@@ -11,7 +11,7 @@ import subprocess
 API_ID = '14717600'
 API_HASH = '1c4099bac5e396aecaacf6f98f2bd155'
 TOKEN = '5798774840:AAF2DkQfW7maHT1db-nkCqI7jkaVTDrah6Q'
-CHANNEL_ID = -1001851397474
+CHANNEL_ID = 5426833234 #-1001851397474
 chat_id3 = -804108523
 
 # Create the Telegram client
